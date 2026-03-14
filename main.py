@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-14T20:01:55.229Z
-Commit: Patch security vulnerability in authentication
+Timestamp: 2026-03-14T20:05:29.697Z
+Commit: Add multi-language support
